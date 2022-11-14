@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T21:39:47.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QAmXmtih7GlN7Lrndy9k" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T21:42:09.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7H8ZZxKVwlVBcLQciqkR" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagramme d&#39;état utilisateur">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="400" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAuWBWmsDm73bkTep5IY-1" value="Utilisateur&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kAuWBWmsDm73bkTep5IY-1" value="Utilisateur&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kAuWBWmsDm73bkTep5IY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAuWBWmsDm73bkTep5IY-25" target="kAuWBWmsDm73bkTep5IY-10">
@@ -70,7 +70,7 @@
             <mxPoint x="400" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kAuWBWmsDm73bkTep5IY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAuWBWmsDm73bkTep5IY-29">
+        <mxCell id="kAuWBWmsDm73bkTep5IY-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAuWBWmsDm73bkTep5IY-29" target="kAuWBWmsDm73bkTep5IY-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="830" as="targetPoint" />
           </mxGeometry>
@@ -83,6 +83,21 @@
             <mxPoint x="520" y="590" as="sourcePoint" />
             <mxPoint x="490" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kAuWBWmsDm73bkTep5IY-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAuWBWmsDm73bkTep5IY-34" target="kAuWBWmsDm73bkTep5IY-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAuWBWmsDm73bkTep5IY-34" value="Notification de validation de compte" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAuWBWmsDm73bkTep5IY-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAuWBWmsDm73bkTep5IY-38" target="kAuWBWmsDm73bkTep5IY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAuWBWmsDm73bkTep5IY-38" value="Accès et création de compte utilisateur&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kAuWBWmsDm73bkTep5IY-40" value="Poursuite de la visite du site" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
