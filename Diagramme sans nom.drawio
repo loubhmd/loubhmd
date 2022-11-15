@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T13:17:16.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="KFO8fAd2suByDkaeHRwL" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-15T13:19:20.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n_pLbi8jl6rQWWGjYS9T" version="20.5.3" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagramme d&#39;état utilisateur">
     <mxGraphModel dx="1093" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -373,6 +373,14 @@
         <mxCell id="o_6vGF882MdU2JzESP45-2" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="o_6vGF882MdU2JzESP45-1">
           <mxGeometry x="50" y="600" width="30" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0chl1XkPOEo54gtnOc_M" name="Diagramme de séquence ">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
