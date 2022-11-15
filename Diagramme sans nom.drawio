@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T13:19:20.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n_pLbi8jl6rQWWGjYS9T" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-15T13:25:26.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6IJcr9anVkfJZ5z490W8" version="20.5.3" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagramme d&#39;état utilisateur">
     <mxGraphModel dx="1093" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
             <mxPoint x="383.1801948466052" y="266.8198051533948" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o_6vGF882MdU2JzESP45-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="o_6vGF882MdU2JzESP45-1" target="o_6vGF882MdU2JzESP45-7" source="o_6vGF882MdU2JzESP45-2">
+        <mxCell id="o_6vGF882MdU2JzESP45-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;exitX=0.453;exitY=0.757;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="o_6vGF882MdU2JzESP45-1" target="o_6vGF882MdU2JzESP45-7" source="o_6vGF882MdU2JzESP45-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="640" as="sourcePoint" />
             <mxPoint x="368.3901948466052" y="249.9998051533948" as="targetPoint" />
@@ -381,6 +381,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Copie de Diagramme de séquence " id="QZOFfH1j6SvY5vqYaVTy">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tCPeyvNolQWxw3kvW8Or-0" />
+        <mxCell id="tCPeyvNolQWxw3kvW8Or-1" parent="tCPeyvNolQWxw3kvW8Or-0" />
       </root>
     </mxGraphModel>
   </diagram>
