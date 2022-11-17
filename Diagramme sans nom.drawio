@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T13:25:26.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6IJcr9anVkfJZ5z490W8" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-17T08:33:08.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AW78ANnXU8rbdkA7KugQ" version="20.5.3" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Diagramme d&#39;état utilisateur">
     <mxGraphModel dx="1093" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,14 +381,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wYJXkGNwDVdy_zKhxdf4-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="22.93" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJXkGNwDVdy_zKhxdf4-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJXkGNwDVdy_zKhxdf4-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="wYJXkGNwDVdy_zKhxdf4-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copie de Diagramme de séquence " id="QZOFfH1j6SvY5vqYaVTy">
+  <diagram name="Copie de Diagramme de séquence " id="31yZtz2o-57FAvXD7FnP">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="tCPeyvNolQWxw3kvW8Or-0" />
-        <mxCell id="tCPeyvNolQWxw3kvW8Or-1" parent="tCPeyvNolQWxw3kvW8Or-0" />
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-0" />
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-1" parent="_hVLpX-VVjwbk7OA6BxT-0" />
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="_hVLpX-VVjwbk7OA6BxT-1">
+          <mxGeometry x="30" y="90" width="22.93" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_hVLpX-VVjwbk7OA6BxT-1">
+          <mxGeometry x="180" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_hVLpX-VVjwbk7OA6BxT-1">
+          <mxGeometry x="350" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="_hVLpX-VVjwbk7OA6BxT-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="_hVLpX-VVjwbk7OA6BxT-1">
+          <mxGeometry x="520" y="120" width="10" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
